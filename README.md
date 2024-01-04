@@ -1,5 +1,5 @@
 
-### Olá eu sou o Brian Muniz 🖐️
+### Olá eu sou o Brian Muniz 🖖
 
 "Comece onde você está, use o que você tem, faça o que puder" - Arthur Ashe
 
