@@ -2,7 +2,6 @@
 
 [![Digitando SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Eu+me+chamo+Brian!;Tenho+18+anos.;Sou+um+estudante+frontend...;E+sou+Speedcuber!;+Boas+vindas++ao+meu+perfil!!)](https://git.io/typing-svg)
 
-![Snake animation](https://github.com/brianmunizsilveira/brianmunizsilveira/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brianmunizsilveira&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=00BFFF&text_color=FFFAFA&bg_color=0e0e0e" alt="Brian Muniz github stats" />
