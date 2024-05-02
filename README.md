@@ -3,18 +3,25 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Eu+me+chamo+Brian!;Tenho+18+anos.;Sou+um+estudante+de+Front-End...;E+sou+Speedcuber!;+Boas+vindas++ao+meu+perfil!!)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brianmunizsilveira&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=00BFFF&text_color=FFFAFA&bg_color=0e0e0e" alt="Brian Muniz github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianmunizsilveira&layout=compact&hide_border=true&title_color=1E90FF&text_color=FFFAFA&bg_color=0e0e0e" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brianmunizsilveira&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=00BFFF&text_color=FFFAFA&bg_color=0e0e0e" alt="Brian Muniz github stats" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianmunizsilveira&layout=compact&hide_border=true&title_color=1E90FF&text_color=FFFAFA&bg_color=0e0e0e" />
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=BrianMunizSilveira&theme=highcontrast&hide_border=true&border_radius=6&locale=pt_BR&card_width=500&background=45%2C000000%2C0F4071)](https://git.io/streak-stats)
+
+[![wakatime](https://wakatime.com/badge/user/018e3f91-aa3d-4aa8-92b4-71fa85a0fd74.svg)](https://wakatime.com/@018e3f91-aa3d-4aa8-92b4-71fa85a0fd74)
+![Visitas ao perfil](https://komarev.com/ghpvc/?username=BrianMunizSilveira)
+
+
 </div>
 
 <br>
 
 <div align="center"> 
   <h2>Redes sociais</h2>
-  
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@zw4396/featured)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mxlfylxrd/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-muniz-silveira-220367297/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mxlfylxrd/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@zw4396/featured)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100080847936251)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://pt.quora.com/profile/Dec-Falter)
 
@@ -24,12 +31,29 @@
 
 <div align="center">
 
-## Minhas principais skills
+## Minhas Principais Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-6f42c1?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
 
+## Interesses Futuros
+
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
+![SASS](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
+![BOOSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge)
+
+## Ferramentas
+
+![WIndows](https://img.shields.io/badge/Windows-017AD7?logo=windows&logoColor=white&style=for-the-badge)
+![VisualStudioCode](https://img.shields.io/badge/-vs_code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-6f42c1?style=for-the-badge&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 </div>
 
 ---
@@ -46,7 +70,7 @@
 
 ## :star: Sobre mim
 
-Olá! Sou um entusiasta da tecnologia apaixonado por aprender, com foco atual em Front-End. Estou sempre procurando aprender coisas novas e colaborar em projetos interessantes. E sou aluno do [@Prof°Guanabara](https://github.com/gustavoguanabara).
+Olá! Sou um entusiasta da tecnologia apaixonado por aprender, com foco atual em Front-End. Estou sempre procurando aprender coisas novas e colaborar em projetos interessantes.
 
 ##### Além da Web...
 
