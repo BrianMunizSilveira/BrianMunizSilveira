@@ -82,7 +82,7 @@ Olá! Sou um entusiasta da tecnologia apaixonado por aprender, com foco atual em
 ##### Além da Web...
 
 * Sou SpeedCuber <br>
-  [![World Cube Association](https://cdn.icon-icons.com/icons2/81/PNG/256/rubiks_cube_15542.png)](https://www.worldcubeassociation.org/persons/2024SILV15)
+<a href="https://www.worldcubeassociation.org/persons/2024SILV15" target="_blank"><img src="https://cdn.icon-icons.com/icons2/81/PNG/256/rubiks_cube_15542.png" width="130px" height="130px"></a>
   * Fascinado em competir :sweat_smile:
   * Veja meu perfil na World Cube Association - Associação Mundial de Cubo Mágico: [World Cube Association](https://www.worldcubeassociation.org/persons/2024SILV15)
   * Aspirante a Sub10 :zap:
