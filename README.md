@@ -65,7 +65,7 @@
 
 ---
 
-## :stars: Projetos
+<h2 align="center"> :stars: Projetos :stars: </h2>
 
 - [Projeto 1: Benefícios Da Água💧](https://devdecfalter.github.io/Projetos/beneficios-da-agua/index.html): A página '5 Benefícios da Água' oferece uma análise detalhada dos impactos positivos da hidratação em nosso corpo e mente. Abordando desde a função essencial da água na saúde dos órgãos até a promoção da função cognitiva, cada benefício é cuidadosamente explicado.
 - [Projeto 2: Livros lidos📚](https://devdecfalter.github.io/Projetos/livros-lidos/index.html): Minha 'Lista de Livros Lidos durante a Vida' é um mergulho profundo nas páginas que moldaram minha jornada literária. Cada título representa não apenas uma leitura, mas uma experiência única que contribuiu para meu amor crescente pelos livros.
@@ -75,11 +75,11 @@
 
 ---
 
-## :star: Sobre mim
+<h2 align="center"> :star: Sobre mim :star: </h2>
 
 Olá! Sou um entusiasta da tecnologia apaixonado por aprender, com foco atual em Front-End. Estou sempre procurando aprender coisas novas e colaborar em projetos interessantes.
 
-##### Além da Web...
+<h2 align="center">  :rocket: Além da Web... :rocket: </h2>
 
 * Sou SpeedCuber <br>
 <a href="https://www.worldcubeassociation.org/persons/2024SILV15" target="_blank"><img src="https://cdn.icon-icons.com/icons2/81/PNG/256/rubiks_cube_15542.png" width="130px" height="130px"></a>
