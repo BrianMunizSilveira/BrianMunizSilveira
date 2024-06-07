@@ -11,6 +11,9 @@
 [![wakatime](https://wakatime.com/badge/user/018e3f91-aa3d-4aa8-92b4-71fa85a0fd74.svg)](https://wakatime.com/@018e3f91-aa3d-4aa8-92b4-71fa85a0fd74)
 ![Visitas ao perfil](https://komarev.com/ghpvc/?username=BrianMunizSilveira)
 
+![GitHub followers](https://img.shields.io/github/followers/BrianMunizSilveira?label=Follow&style=social)
+
+
 
 </div>
 
