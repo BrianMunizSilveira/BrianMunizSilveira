@@ -8,7 +8,7 @@
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=BrianMunizSilveira&theme=highcontrast&hide_border=true&border_radius=6&locale=pt_BR&card_width=500&background=45%2C000000%2C0F4071)](https://git.io/streak-stats)
 
-[![wakatime](https://wakatime.com/badge/user/018e3f91-aa3d-4aa8-92b4-71fa85a0fd74.svg)](https://wakatime.com/@018e3f91-aa3d-4aa8-92b4-71fa85a0fd74)
+[![wakatime](https://wakatime.com/badge/user/04f9d9f5-78d5-4252-bb42-c13048cc1271.svg)](https://wakatime.com/@04f9d9f5-78d5-4252-bb42-c13048cc1271)
 ![Visitas ao perfil](https://komarev.com/ghpvc/?username=BrianMunizSilveira)
 
 ![GitHub followers](https://img.shields.io/github/followers/BrianMunizSilveira?label=Follow&style=social)
