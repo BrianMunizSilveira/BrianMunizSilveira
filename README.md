@@ -76,7 +76,6 @@
 - [Projeto 2: Livros lidos📚](https://repositorio-sigma-six.vercel.app/livros-lidos/index.html): Minha 'Lista de Livros Lidos durante a Vida' é um mergulho profundo nas páginas que moldaram minha jornada literária. Cada título representa não apenas uma leitura, mas uma experiência única que contribuiu para meu amor crescente pelos livros.
 - [Projeto 3: Biografia Scarlxrd📝](https://repositorio-sigma-six.vercel.app/biografia-scarlxrd/index.html): A 'Biografia Scarlxrd' oferece uma narrativa envolvente da jornada artística e musical de Marius Lucas Antonio Listhrop, mais conhecido como Scarlxrd. Iniciando como Mazzi Maz, uma personalidade alegre e sorridente no YouTube, Scarlxrd evoluiu para se tornar um rapper inovador, fundindo trap e heavy metal, e é reconhecido como um dos pioneiros do gênero trap metal.
 - [Projeto 4: Discografia do Scarlxrd📝](https://repositorio-sigma-six.vercel.app/discografia-scar/index.html): Nesta página, compartilho a jornada musical de Scarlxrd através de sua discografia completa, desde os primeiros álbuns até seu lançamento mais recente.
-- 
 ---
 
 <h2 align="center"> :star: Sobre mim :star: </h2>
