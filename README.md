@@ -20,7 +20,7 @@
 <br>
 
 <div align="center"> 
-  <h2>Redes sociais</h2>
+  <h2> :globe_with_meridians: Redes sociais :globe_with_meridians: </h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-muniz-silveira-220367297/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@devdec463)
@@ -40,24 +40,23 @@
 
 <div align="center">
 
-## Minhas Principais Skills
+## :hammer_and_wrench: Minhas Principais Skills :hammer_and_wrench:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-6f42c1?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
 
-## Estudando no momento
+## :books: Estudando no momento :books:
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 
-## Interesses Futuros
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+## :star2: Interesses Futuros :star2:
 ![Ttypescript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
 ![Boostrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-## Ferramentas
+## :toolbox: Ferramentas :toolbox:
 
 ![WIndows](https://img.shields.io/badge/Windows-017AD7?logo=windows&logoColor=white&style=for-the-badge)
 ![VisualStudioCode](https://img.shields.io/badge/-vs_code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
@@ -72,10 +71,10 @@
 
 <h2 align="center"> :stars: Projetos :stars: </h2>
 
-- [Projeto 1: Benefícios Da Água💧](https://repositorio-sigma-six.vercel.app/beneficios-da-agua/index.html): A página '5 Benefícios da Água' oferece uma análise detalhada dos impactos positivos da hidratação em nosso corpo e mente. Abordando desde a função essencial da água na saúde dos órgãos até a promoção da função cognitiva, cada benefício é cuidadosamente explicado.
-- [Projeto 2: Livros lidos📚](https://repositorio-sigma-six.vercel.app/livros-lidos/index.html): Minha 'Lista de Livros Lidos durante a Vida' é um mergulho profundo nas páginas que moldaram minha jornada literária. Cada título representa não apenas uma leitura, mas uma experiência única que contribuiu para meu amor crescente pelos livros.
-- [Projeto 3: Biografia Scarlxrd📝](https://repositorio-sigma-six.vercel.app/biografia-scarlxrd/index.html): A 'Biografia Scarlxrd' oferece uma narrativa envolvente da jornada artística e musical de Marius Lucas Antonio Listhrop, mais conhecido como Scarlxrd. Iniciando como Mazzi Maz, uma personalidade alegre e sorridente no YouTube, Scarlxrd evoluiu para se tornar um rapper inovador, fundindo trap e heavy metal, e é reconhecido como um dos pioneiros do gênero trap metal.
-- [Projeto 4: Discografia do Scarlxrd📝](https://repositorio-sigma-six.vercel.app/discografia-scar/index.html): Nesta página, compartilho a jornada musical de Scarlxrd através de sua discografia completa, desde os primeiros álbuns até seu lançamento mais recente.
+- [Projeto 1: Benefícios Da Água :droplet:](https://repositorio-sigma-six.vercel.app/beneficios-da-agua/index.html): A página '5 Benefícios da Água' oferece uma análise detalhada dos impactos positivos da hidratação em nosso corpo e mente. Abordando desde a função essencial da água na saúde dos órgãos até a promoção da função cognitiva, cada benefício é cuidadosamente explicado.
+- [Projeto 2: Livros lidos :books:](https://repositorio-sigma-six.vercel.app/livros-lidos/index.html): Minha 'Lista de Livros Lidos durante a Vida' é um mergulho profundo nas páginas que moldaram minha jornada literária. Cada título representa não apenas uma leitura, mas uma experiência única que contribuiu para meu amor crescente pelos livros.
+- [Projeto 3: Biografia Scarlxrd :memo:](https://repositorio-sigma-six.vercel.app/biografia-scarlxrd/index.html): A 'Biografia Scarlxrd' oferece uma narrativa envolvente da jornada artística e musical de Marius Lucas Antonio Listhrop, mais conhecido como Scarlxrd. Iniciando como Mazzi Maz, uma personalidade alegre e sorridente no YouTube, Scarlxrd evoluiu para se tornar um rapper inovador, fundindo trap e heavy metal, e é reconhecido como um dos pioneiros do gênero trap metal.
+- [Projeto 4: Discografia do Scarlxrd :musical_note:](https://repositorio-sigma-six.vercel.app/discografia-scar/index.html): Nesta página, compartilho a jornada musical de Scarlxrd através de sua discografia completa, desde os primeiros álbuns até seu lançamento mais recente.
 ---
 
 <h2 align="center"> :star: Sobre mim :star: </h2>
@@ -84,8 +83,7 @@ Olá! Sou um entusiasta da tecnologia apaixonado por aprender, com foco atual em
 
 <h2 align="center">  :rocket: Além da Web... :rocket: </h2>
 
-* Sou SpeedCuber <br>
-<a href="https://www.worldcubeassociation.org/persons/2024SILV15" target="_blank"><img src="https://cdn.icon-icons.com/icons2/81/PNG/256/rubiks_cube_15542.png" width="130px" height="130px"></a>
+  ![Descrição da Imagem](https://i.imgur.com/iDDeJ32.png)
   * Fascinado em competir :sweat_smile:
   * Veja meu perfil na World Cube Association - Associação Mundial de Cubo Mágico: [World Cube Association](https://www.worldcubeassociation.org/persons/2024SILV15)
   * Aspirante a Sub10 :zap:
