@@ -83,12 +83,24 @@ Olá! Sou um entusiasta da tecnologia apaixonado por aprender, com foco atual em
 
 <h2 align="center">  :rocket: Além da Web... :rocket: </h2>
 
+---
+
+<h2 align="center"> Sou Speedcuber :zap: </h2>
+
+<div align="center">
+  
   ![Speedcuber](https://i.imgur.com/iDDeJ32.png)
+  
   * Fascinado em competir :sweat_smile:
   * Veja meu perfil na World Cube Association - Associação Mundial de Cubo Mágico: [World Cube Association](https://www.worldcubeassociation.org/persons/2024SILV15)
   * Aspirante a Sub10 :zap:
+</div>
+
+---
+
+  <h2 align="center">Ávido leitor :book: </h2>
  
-* Ávido leitor, siga-me no Skoob: [![Skoob](https://raw.githubusercontent.com/DevDecfalter/DevDecfalter/main/logo-azul-90x90.jpg)](https://www.skoob.com.br/usuario/10275762)
+* Siga-me no Skoob: [Meu perfil no Skoob](https://www.skoob.com.br/usuario/10275762)
 
 Alguns dos meus livros favoritos :book::
 
