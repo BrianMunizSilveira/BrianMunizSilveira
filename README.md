@@ -71,10 +71,10 @@
 
 <h2 align="center"> :stars: Projetos :stars: </h2>
 
-- [Projeto 1: Benefícios Da Água :droplet:](https://repositorio-sigma-six.vercel.app/beneficios-da-agua/index.html): A página '5 Benefícios da Água' oferece uma análise detalhada dos impactos positivos da hidratação em nosso corpo e mente. Abordando desde a função essencial da água na saúde dos órgãos até a promoção da função cognitiva, cada benefício é cuidadosamente explicado. <br /> ![5 Benefícios da Água](https://imgur.com/D8XzBwt.png)
-- [Projeto 2: Livros lidos :books:](https://repositorio-sigma-six.vercel.app/livros-lidos/index.html): Minha 'Lista de Livros Lidos durante a Vida' é um mergulho profundo nas páginas que moldaram minha jornada literária. Cada título representa não apenas uma leitura, mas uma experiência única que contribuiu para meu amor crescente pelos livros. Esta página é atualizada de acordo com a minha leitura. <br /> ![Livros Lidos](https://imgur.com/CSYyDFA.png)
-- [Projeto 3: Biografia Scarlxrd :memo:](https://repositorio-sigma-six.vercel.app/biografia-scarlxrd/index.html): A 'Biografia Scarlxrd' oferece uma narrativa envolvente da jornada artística e musical de Marius Lucas Antonio Listhrop, mais conhecido como Scarlxrd. Iniciando como Mazzi Maz, uma personalidade alegre e sorridente no YouTube, Scarlxrd evoluiu para se tornar um rapper inovador, fundindo trap e heavy metal, e é reconhecido como um dos pioneiros do gênero trap metal. <br /> ![Biografia Scarlxrd](https://imgur.com/A4BeuWO.png)
-- [Projeto 4: Discografia do Scarlxrd :musical_note:](https://repositorio-sigma-six.vercel.app/discografia-scar/index.html): Nesta página, compartilho a jornada musical de Scarlxrd através de sua discografia completa, desde os primeiros álbuns até seu lançamento mais recente. <br /> ![Discogria Scarlxrd](https://imgur.com/dYEusLV.png)
+- [Projeto 1: Benefícios Da Água :droplet:](https://repositorio-sigma-six.vercel.app/beneficios-da-agua/index.html): A página '5 Benefícios da Água' oferece uma análise detalhada dos impactos positivos da hidratação em nosso corpo e mente. Abordando desde a função essencial da água na saúde dos órgãos até a promoção da função cognitiva, cada benefício é cuidadosamente explicado. <br /> <br /> ![5 Benefícios da Água](https://imgur.com/R9tV9gT.png)
+- [Projeto 2: Livros lidos :books:](https://repositorio-sigma-six.vercel.app/livros-lidos/index.html): Minha 'Lista de Livros Lidos durante a Vida' é um mergulho profundo nas páginas que moldaram minha jornada literária. Cada título representa não apenas uma leitura, mas uma experiência única que contribuiu para meu amor crescente pelos livros. Esta página é atualizada de acordo com a minha leitura. <br /> <br /> ![Livros Lidos](https://imgur.com/RVBOxNm.png)
+- [Projeto 3: Biografia Scarlxrd :memo:](https://repositorio-sigma-six.vercel.app/biografia-scarlxrd/index.html): A 'Biografia Scarlxrd' oferece uma narrativa envolvente da jornada artística e musical de Marius Lucas Antonio Listhrop, mais conhecido como Scarlxrd. Iniciando como Mazzi Maz, uma personalidade alegre e sorridente no YouTube, Scarlxrd evoluiu para se tornar um rapper inovador, fundindo trap e heavy metal, e é reconhecido como um dos pioneiros do gênero trap metal. <br /> ![Biografia Scarlxrd](https://imgur.com/n9Hrxyk.png)
+- [Projeto 4: Discografia do Scarlxrd :musical_note:](https://repositorio-sigma-six.vercel.app/discografia-scar/index.html): Nesta página, compartilho a jornada musical de Scarlxrd através de sua discografia completa, desde os primeiros álbuns até seu lançamento mais recente. <br /> <br /> ![Discogria Scarlxrd](https://imgur.com/MSELTGO.png)
 ---
 
 <h2 align="center"> :star: Sobre mim :star: </h2>
@@ -91,10 +91,40 @@ Olá! Sou um entusiasta da tecnologia apaixonado por aprender, com foco atual em
 * Ávido leitor, siga-me no Skoob: [![Skoob](https://raw.githubusercontent.com/DevDecfalter/DevDecfalter/main/logo-azul-90x90.jpg)](https://www.skoob.com.br/usuario/10275762)
 
 Alguns dos meus livros favoritos :book::
-* [2001: Uma Odisseia no Espaço: Arthur C. Clarke](https://www.skoob.com.br/2001-uma-odisseia-no-espaco-4457ed5516.html) <br /> ![2001](https://img.skoob.com.br/bsVtMvnCRdd3pwg7zTWZtQqPlPU=/200x/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/livros/4457/2001_UMA_ODISSEIA_NO_ESPACO_15252276204457SK1525227623B.jpg)	
-* [A realidade de Madhu: Melissa Tobias](https://www.skoob.com.br/a-realidade-de-madhu-415248ed471546.html) <br /> ![madhu](https://img.skoob.com.br/zwh8iG5HPI4nw_6u3JtzTK0leBQ=/200x/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/livros/415248/A_REALIDADE_DE_MADHU_1412372370B.jpg)
-* [Bunker - Diário da Agonia: Kevin Brooks](https://www.skoob.com.br/bunker-523901ed531455.html) <br /> ![Bunker](https://img.skoob.com.br/GEr0uw9_Db8UoBEyAQxt1EMY1AU=/200x/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/livros/523901/BUNKER_1440712334523901SK1440712334B.jpg)
-* [O assassinato e outras histórias (Prosa do Mundo): Anton Tchekhov](https://www.skoob.com.br/o-assassinato-e-outras-historias-10923ed384772.html) <br /> ![Tchekhov](https://img.skoob.com.br/fpKcwS3Rreb6M65ZlImBW0OebPc=/200x/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/livros/10923/O_ASSASSINATO_E_OUTRAS_HISTORI_163355036610923SK-V11633550372B.jpg)
+
+<table>
+    <tr>
+        <td>
+            <a href="https://www.skoob.com.br/2001-uma-odisseia-no-espaco-4457ed5516.html">
+                2001: Uma Odisseia no Espaço: Arthur C. Clarke
+            </a> 
+            <br />
+            <img src="https://img.skoob.com.br/bsVtMvnCRdd3pwg7zTWZtQqPlPU=/200x/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/livros/4457/2001_UMA_ODISSEIA_NO_ESPACO_15252276204457SK1525227623B.jpg" alt="2001" width="560">
+        </td>
+        <td>
+            <a href="https://www.skoob.com.br/a-realidade-de-madhu-415248ed471546.html">
+                A realidade de Madhu: Melissa Tobias
+            </a> 
+            <br />
+            <img src="https://img.skoob.com.br/zwh8iG5HPI4nw_6u3JtzTK0leBQ=/200x/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/livros/415248/A_REALIDADE_DE_MADHU_1412372370B.jpg" alt="Madhu" width="500">
+        </td>
+        <td>
+            <a href="https://www.skoob.com.br/bunker-523901ed531455.html">
+                Bunker - Diário da Agonia: Kevin Brooks
+            </a> 
+            <br />
+            <img src="https://img.skoob.com.br/GEr0uw9_Db8UoBEyAQxt1EMY1AU=/200x/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/livros/523901/BUNKER_1440712334523901SK1440712334B.jpg" alt="Bunker" width="560">
+        </td>
+        <td>
+            <a href="https://www.skoob.com.br/o-assassinato-e-outras-historias-10923ed384772.html">
+                O assassinato e outras histórias (Prosa do Mundo): Anton Tchekhov
+            </a> 
+            <br />
+            <img src="https://img.skoob.com.br/fpKcwS3Rreb6M65ZlImBW0OebPc=/200x/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/livros/10923/O_ASSASSINATO_E_OUTRAS_HISTORI_163355036610923SK-V11633550372B.jpg" alt="Tchekhov" width="600">
+        </td>
+    </tr>
+</table>
+
 
 ---
 
