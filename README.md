@@ -69,22 +69,6 @@
 
 ---
 
-<h2 align="center"> :stars: Projetos :stars: </h2>
-
-- [Projeto 1: Benefícios Da Água :droplet:](https://repositorio-sigma-six.vercel.app/beneficios-da-agua/index.html): A página '5 Benefícios da Água' oferece uma análise detalhada dos impactos positivos da hidratação em nosso corpo e mente. Abordando desde a função essencial da água na saúde dos órgãos até a promoção da função cognitiva, cada benefício é cuidadosamente explicado. <br /> <br /> ![5 Benefícios da Água](https://imgur.com/R9tV9gT.png)
-- [Projeto 2: Livros lidos :books:](https://repositorio-sigma-six.vercel.app/livros-lidos/index.html): Minha 'Lista de Livros Lidos durante a Vida' é um mergulho profundo nas páginas que moldaram minha jornada literária. Cada título representa não apenas uma leitura, mas uma experiência única que contribuiu para meu amor crescente pelos livros. Esta página é atualizada de acordo com a minha leitura. <br /> <br /> ![Livros Lidos](https://imgur.com/RVBOxNm.png)
-- [Projeto 3: Biografia Scarlxrd :memo:](https://repositorio-sigma-six.vercel.app/biografia-scarlxrd/index.html): A 'Biografia Scarlxrd' oferece uma narrativa envolvente da jornada artística e musical de Marius Lucas Antonio Listhrop, mais conhecido como Scarlxrd. Iniciando como Mazzi Maz, uma personalidade alegre e sorridente no YouTube, Scarlxrd evoluiu para se tornar um rapper inovador, fundindo trap e heavy metal, e é reconhecido como um dos pioneiros do gênero trap metal. <br /> ![Biografia Scarlxrd](https://imgur.com/n9Hrxyk.png)
-- [Projeto 4: Discografia do Scarlxrd :musical_note:](https://repositorio-sigma-six.vercel.app/discografia-scar/index.html): Nesta página, compartilho a jornada musical de Scarlxrd através de sua discografia completa, desde os primeiros álbuns até seu lançamento mais recente. <br /> <br /> ![Discogria Scarlxrd](https://imgur.com/MSELTGO.png)
----
-
-<h2 align="center"> :star: Sobre mim :star: </h2>
-
-Olá! Sou um entusiasta da tecnologia apaixonado por aprender, com foco atual em Front-End. Estou sempre procurando aprender coisas novas e colaborar em projetos interessantes.
-
-<h2 align="center">  :rocket: Além da Web... :rocket: </h2>
-
----
-
 <h2 align="center"> Sou Speedcuber :zap: </h2>
 
 <div align="center">
