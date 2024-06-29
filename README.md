@@ -53,7 +53,7 @@
 ## :star2: Interesses Futuros :star2:
 ![Ttypescript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
-![Boostrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge)
+![Tailwindcss](https://img.shields.io/badge/Tailwind-3498DB?logo=tailwindcss&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## :toolbox: Ferramentas :toolbox:
