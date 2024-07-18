@@ -3,8 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Eu+me+chamo+Brian!;Tenho+18+anos.;Sou+um+desenvolvedor+de+Front-End...;E+sou+Speedcuber!;+Boas+vindas++ao+meu+perfil!!;+So+Say+We+All!+🪐)](https://git.io/typing-svg)
 
 <div align="center">  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BrianMunizSilveira&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=00BFFF&text_color=FFFAFA&bg_color=0e0e0e" alt="Brian Muniz github stats" />
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianMunizSilveira&layout=compact&hide_border=true&title_color=1E90FF&text_color=FFFAFA&bg_color=0e0e0e" />
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=BrianMunizSilveira&theme=highcontrast&hide_border=true&border_radius=6&locale=pt_BR&card_width=500&background=45%2C000000%2C0F4071)](https://git.io/streak-stats)
 
@@ -12,8 +10,6 @@
 ![Visitas ao perfil](https://komarev.com/ghpvc/?username=BrianMunizSilveira)
 
 ![GitHub followers](https://img.shields.io/github/followers/BrianMunizSilveira?label=Follow&style=social)
-
-
 
 </div>
 
