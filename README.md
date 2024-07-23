@@ -6,6 +6,12 @@
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=BrianMunizSilveira&theme=highcontrast&hide_border=true&border_radius=6&locale=pt_BR&card_width=500&background=45%2C000000%2C0F4071)](https://git.io/streak-stats)
 
+<div align="center">
+   <a href="https://github.com/carlosvfb">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrianMunizSilveira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianMunizSilveira&layout=compact&langs_count=6&theme=algolia"/>
+</div>
+
 [![wakatime](https://wakatime.com/badge/user/04f9d9f5-78d5-4252-bb42-c13048cc1271.svg)](https://wakatime.com/@04f9d9f5-78d5-4252-bb42-c13048cc1271)
 ![Visitas ao perfil](https://komarev.com/ghpvc/?username=BrianMunizSilveira)
 
