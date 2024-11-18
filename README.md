@@ -40,7 +40,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and Tools I Use</h3>
 
 ###
 
@@ -66,7 +66,7 @@
 
 ###
 
-<h3 align="left">🛠 Languages I will learn </h3>
+<h3 align="left">🛠 Languages and Tools I Plan to Learn </h3>
 
 ###
 
