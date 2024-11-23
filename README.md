@@ -97,6 +97,8 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianMunizSilveira&layout=compact&langs_count=6&theme=algolia&locale=pt-br" />
 
+![Snake animation](https://github.com/BrianMunizSilveira/BrianMunizSilveira/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 ###
