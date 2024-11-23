@@ -1,13 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=30&center=true&vCenter=true&width=1000&lines=I'm+19+years+old;Front-End+Developer;And+I'm+A+Speedcuber!;+Welcome+To+My+Profile;+So+Say+We+All!+🪐)](https://git.io/typing-svg)
-
-###
-
-<div align="center">
-
-  ![Visitas ao perfil](https://komarev.com/ghpvc/?username=BrianMunizSilveira)
-
-  ![GitHub followers](https://img.shields.io/github/followers/BrianMunizSilveira?label=Follow&style=social)
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=30&center=true&vCenter=true&width=1000&lines=Tenho+19+anos;+Sou+Desenvolvedor+Front-End;+E+Sou+Speedcuber!;+Bem-vindo+ao+meu+perfil;+So+Say+We+All!+🪐)](https://git.io/typing-svg)
 
 ###
 
@@ -26,11 +17,29 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 Sobre Mim</h3>
 
 ###
 
-<p align="left">I'm from Brazil<br> Speedcubing competitor and Front-End developer, always looking for fast and efficient solutions both in the cube and in the code. See my profile on the <a href="https://www.worldcubeassociation.org/persons/2024SILV15" target="_blank">World Cube Association</a> ⚡ <br><br>- 🔭 I'm working to develop myself<br>- 📚 I'm currently learning JavaScript<br>- ⚡ In my free time I'm reading, playing games or being a speedcuber</p>
+### Muito prazer,  
+
+Me chamo **Brian**, um estudante autodidata de Desenvolvimento Web (Front-end) apaixonado por tecnologia, leitura e speedcubing.  
+
+Minha jornada atual é dedicada ao constante aprimoramento das habilidades no desenvolvimento web. Estou empenhado em explorar as nuances do Front-End, buscando sempre novos desafios e oportunidades para aprimorar meu conhecimento técnico.  
+
+Acredito que a combinação da minha paixão por tecnologia, minha curiosidade insaciável e meu comprometimento em aprender continuamente me impulsionará a contribuir de maneira significativa no cenário dinâmico do desenvolvimento web.  
+
+Sou também **competidor de speedcubing**, sempre buscando soluções rápidas e eficientes tanto no cubo quanto no código.  
+Veja meu perfil na [World Cube Association](https://www.worldcubeassociation.org/persons/2024SILV15) ⚡  
+
+---
+
+## 🚀 O que estou fazendo atualmente:  
+
+- 🔭 Estou trabalhando para me desenvolver  
+- 📚 Atualmente estou aprendendo **JavaScript**  
+- ⚡ No meu tempo livre, estou lendo, jogando ou praticando speedcubing  
+
 
 ###
 
@@ -40,12 +49,12 @@
 
 ###
 
-<h3 align="left">🛠 Languages and Tools I Use</h3>
+<h3 align="left">🛠 Linguagens e Ferramentas que Eu Uso</h3>
 
 ###
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
@@ -66,14 +75,14 @@
 
 ###
 
-<h3 align="left">🛠 Languages and Tools I Plan to Learn </h3>
+<h3 align="left">🛠 Linguagens e Ferramentas que Planejo Aprender</h3>
 
 ###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
@@ -85,7 +94,9 @@
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="left">🔥 Minhas Estatísticas:</h3>
+
+![Visitas ao perfil](https://komarev.com/ghpvc/?username=BrianMunizSilveira)
 
 ###
 
@@ -99,7 +110,7 @@
 
 </div>
 
-<h3 align="left">🏆 Trophies </h3>
+<h3 align="left">🏆 Conquistas </h3>
 <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=BrianMunizSilveira&row=4&theme=onedark&no-frame=true"/>
 
 ###
