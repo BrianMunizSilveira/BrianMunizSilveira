@@ -99,6 +99,9 @@
 
 </div>
 
+<h3 align="left">🏆 Trophies </h3>
+<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=BrianMunizSilveira&row=4&theme=onedark&no-frame=true"/>
+
 ###
 
 > So Say We All! 🪐
