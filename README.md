@@ -1,118 +1,77 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=30&center=true&vCenter=true&width=1000&lines=Tenho+19+anos;+Sou+Desenvolvedor+Front-End;+E+Sou+Speedcuber!;+Bem-vindo+ao+meu+perfil;+So+Say+We+All!+🪐)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Olá%2C+Eu+sou+Brian!+Bem-vindo+ao+meu+Perfil!" align="middle" alt="Olá, Eu sou Brian! Bem-vindo ao meu Perfil!" />
+<img  src="assets/borderseperator.gif">
 
-###
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=BrianMunizSilveira&color=0079fa&style=flat-square&label=VISITANTES+DO+PERFIL" alt="profile view counter">
+</p> <br>
+
+<a href="https://app.daily.dev/brianmunizsilveira"> 
+  <img align='right' src="https://i.imgur.com/Lp8PuoP.gif" width="350" alt="Brian's Dev Card" />
+</a>
+
+<h2 align="center"> Apaixonado por tecnologia, speedcubing e sempre aprendendo! <img src="assets/flamey.gif" width="30"/> </h2>
+
+* 🌳 **Atualmente Aprendendo:** JavaScript <br> 
+  Explorando:
+  - Projetos Front-End modernos.
+  - Desafios no speedcubing e soluções ágeis no código. <br>
+
+* 🐾 **Busco Conexões:** Networking com desenvolvedores e entusiastas da tecnologia. <br><br>
+
+* 🌊 **Metas para 2024:** Contribuir com projetos de código aberto e crescer na área de desenvolvimento. <br><br>
+
+* ☕ **Interesses:** Livros, tecnologia, speedcubing e desenvolvimento criativo. <br><br>
+
+* :octocat: **Hobbies:** Speedcubing, jogos, leitura. <br><br>
+
+<h2></h2><br>
+
+<p align="center"> 
+  <img src="assets/nightlife.gif" alt="Lofi Nightlight scene" /> 
+</p>
 
 <div align="center">
-  <a href="www.linkedin.com/in/brian-muniz-silveira" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+  <h2> <strong> Tecnologias Atuais </strong></h2>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="skills currently learning logos"> <br> 
+  <h2> <strong> Tecnologias que Pretendo Aprender </strong></h2>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,ts,nextjs,nodejs" alt="skills planning to learn logos">
+</div>
+
+<p align="center"><br>
+  <img align="center" src="assets/lofi.gif" alt="Lofi Girl drinking coffee coding" /> <br>
+</p>
+
+<div align="center">
+  <h2> <strong> Minhas Estatísticas no GitHub </strong> </h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=BrianMunizSilveira&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br> <br>
+
+  <img src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=BrianMunizSilveira&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact" alt="Most used languages" /> <br>
+
+  <img src="https://streak-stats.demolab.com?user=BrianMunizSilveira&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph" />
+
+  <img src="https://github-readme-stats2-olive.vercel.app/api?username=BrianMunizSilveira&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph" />
+</div> <br>
+
+[![Brian's Github Activity Graph](https://github-readme-activity-graph-lemon-theta.vercel.app/graph?username=BrianMunizSilveira&custom_title=Brian's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+<img src="assets/loficity.gif" alt="Lofi Nightlife city scene" />
+</p>
+
+<img src="assets/borderseperator.gif">
+
+<h3 align="center">Conecte-se Comigo</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/brian-muniz-silveira/" target="_blank">
+    <img align="center" alt="linkedin logo" height="50" width="50" src="assets/linkedinlogo.png" />
+  </a> &nbsp;&nbsp;
+
+  <a href="https://github.com/BrianMunizSilveira" target="_blank">
+    <img align="center" alt="github logo" height="50" width="50" src="assets/githublogo.png"/>
+  </a> &nbsp;&nbsp;
+  
   <a href="mailto:brian.muniz.silveira@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img align="center" alt="gmail logo" height="50" width="50" src="assets/gmailogo.png" />
+  </a> &nbsp;&nbsp;
   </a>
-  <a href="https://www.instagram.com/mxlfylxrd/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-</div>
-
-###
-
-<h3 align="left">👩‍💻 Sobre Mim</h3>
-
-###
-
-### Muito prazer,  
-
-Me chamo **Brian**, um estudante autodidata de Desenvolvimento Web (Front-end) apaixonado por tecnologia, leitura e speedcubing.  
-
-Minha jornada atual é dedicada ao constante aprimoramento das habilidades no desenvolvimento web. Estou empenhado em explorar as nuances do Front-End, buscando sempre novos desafios e oportunidades para aprimorar meu conhecimento técnico.  
-
-Acredito que a combinação da minha paixão por tecnologia, minha curiosidade insaciável e meu comprometimento em aprender continuamente me impulsionará a contribuir de maneira significativa no cenário dinâmico do desenvolvimento web.  
-
-Sou também **competidor de speedcubing**, sempre buscando soluções rápidas e eficientes tanto no cubo quanto no código.  
-Veja meu perfil na [World Cube Association](https://www.worldcubeassociation.org/persons/2024SILV15) ⚡  
-
----
-
-## 🚀 O que estou fazendo atualmente:  
-
-- 🔭 Estou trabalhando para me desenvolver  
-- 📚 Atualmente estou aprendendo **JavaScript**  
-- ⚡ No meu tempo livre, estou lendo, jogando ou praticando speedcubing  
-
-
-###
-
-<div align="center">
-  <img height="150" src="https://i.imgflip.com/5cxoly.gif"  />
-</div>
-
-###
-
-<h3 align="left">🛠 Linguagens e Ferramentas que Eu Uso</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  
-  ![wakatime](https://wakatime.com/badge/user/04f9d9f5-78d5-4252-bb42-c13048cc1271.svg)
-</div>
-
-###
-
-<h3 align="left">🛠 Linguagens e Ferramentas que Planejo Aprender</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<h3 align="left">🔥 Minhas Estatísticas:</h3>
-
-![Visitas ao perfil](https://komarev.com/ghpvc/?username=BrianMunizSilveira)
-
-###
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=BrianMunizSilveira&theme=highcontrast&hide_border=true&border_radius=6&locale=pt_BR&card_width=450&background=45%2C000000%2C0F4071)](https://git.io/streak-stats)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrianMunizSilveira&show_icons=true&theme=algolia&locale=pt-br" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianMunizSilveira&layout=compact&langs_count=6&theme=algolia&locale=pt-br" />
-
-</div>
-
-<h3 align="left">🏆 Conquistas </h3>
-<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=BrianMunizSilveira&row=4&theme=onedark&no-frame=true"/>
-
-###
-
-> So Say We All! 🪐
+</p>
