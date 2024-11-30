@@ -6,7 +6,7 @@
 </p> <br>
 
 <a href="https://app.daily.dev/brianmunizsilveira"> 
-  <img align='right' src="https://i.imgur.com/Lp8PuoP.gif" width="350" alt="Brian's Dev Card" />
+  <img align='right' src="https://i.imgur.com/Lp8PuoP.gif" width="500" alt="Brian's Dev Card" />
 </a>
 
 <h2 align="center"> Apaixonado por tecnologia, speedcubing e sempre aprendendo! <img src="assets/flamey.gif" width="30"/> </h2>
