@@ -70,5 +70,6 @@
   <a href="mailto:brian.muniz.silveira@gmail.com" target="_blank">
     <img align="center" alt="gmail logo" height="50" width="50" src="assets/gmailogo.png" />
   </a> &nbsp;&nbsp;
+  
   </a>
 </p>
