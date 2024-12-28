@@ -62,6 +62,7 @@
 <img src="assets/borderseperator.gif">
 
 <h3 align="center">Conecte-se Comigo</h3>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/brian-muniz-silveira/" target="_blank">
     <img align="center" alt="linkedin logo" height="50" width="50" src="assets/linkedinlogo.png" />
