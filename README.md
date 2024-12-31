@@ -67,6 +67,7 @@
   <a href="https://www.linkedin.com/in/brian-muniz-silveira/" target="_blank">
     <img align="center" alt="linkedin logo" height="50" width="50" src="assets/linkedinlogo.png" />
   </a> &nbsp;&nbsp;
+
   
   <a href="mailto:brian.muniz.silveira@gmail.com" target="_blank">
     <img align="center" alt="gmail logo" height="50" width="50" src="assets/gmailogo.png" />
