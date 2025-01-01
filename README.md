@@ -19,7 +19,7 @@
 
 * 🐾 **Busco Conexões:** Networking com desenvolvedores e entusiastas da tecnologia. <br><br>
 
-* 🌊 **Metas para 2024:** Contribuir com projetos de código aberto e crescer na área de desenvolvimento. <br><br>
+* 🌊 **Metas para 2025:** Contribuir com projetos de código aberto e crescer na área de desenvolvimento. <br><br>
 
 * ☕ **Interesses:** Livros, tecnologia, speedcubing e desenvolvimento criativo. <br><br>
 
