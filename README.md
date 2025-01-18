@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Olá%2C+Eu+sou+Brian!+Bem-vindo+ao+meu+Perfil!" align="middle" alt="Olá, Eu sou Brian! Bem-vindo ao meu Perfil!" />
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Bem-vinda(o)+ao+meu+Perfil!" align="middle" alt="Bem-vinda(o) ao meu Perfil!" />
 <img  src="assets/borderseperator.gif">
 
 <p align="center">
