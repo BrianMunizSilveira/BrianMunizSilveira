@@ -62,6 +62,7 @@ Sou um desenvolvedor em constante evolução, unindo a precisão do speedcubing 
 
 <div align="center">
         <h3>Conquistas no GitHub</h3>
+
         <img src="https://github-profile-trophy.vercel.app/?username=BrianMunizSilveira&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
         <p><i>Cada troféu representa uma etapa importante na minha jornada de desenvolvimento</i></p>
 
