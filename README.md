@@ -41,29 +41,25 @@ Sou um desenvolvedor em constante evolução, unindo a precisão do speedcubing 
 
 <details>
     <summary><h3>🛠️ Arsenal Tecnológico</h3></summary>
-    
 <div align="center">
         <h3>Tecnologias que Domino com Paixão</h3>
         <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="skills currently learning logos">
         <p><i>Ferramentas que uso diariamente para dar vida às minhas ideias</i></p>
-
 <h3>Próximas Conquistas Tecnológicas</h3>
         <img src="https://skillicons.dev/icons?i=react,tailwind,ts,nextjs,nodejs" alt="skills planning to learn logos">
         <p><i>Tecnologias que em breve farão parte do meu arsenal</i></p>
     </div>
-
 <p align="center">
         <img align="center" src="assets/lofi.gif" alt="Lofi Girl drinking coffee coding" />
     </p>
 </details>
-
 <details>
     <summary><h3>📊 Minha Jornada em Números</h3></summary>
 
 <div align="center">
         <h3>Conquistas no GitHub</h3>
 
-        <img src="https://github-profile-trophy.vercel.app/?username=BrianMunizSilveira&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
+<img src="https://github-profile-trophy.vercel.app/?username=BrianMunizSilveira&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
         <p><i>Cada troféu representa uma etapa importante na minha jornada de desenvolvimento</i></p>
 
 <h3>Linguagens Mais Utilizadas</h3>
