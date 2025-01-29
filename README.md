@@ -9,6 +9,7 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=BrianMunizSilveira&color=0079fa&style=flat-square&label=VISITANTES+DO+PERFIL" alt="profile view counter">
     <img src="https://wakatime.com/badge/user/04f9d9f5-78d5-4252-bb42-c13048cc1271.svg" alt="Total time coded since Jun 15 2024" />
+
 </p>
 
 <h2 align="center">Desenvolvedor Front-End em construção, Speedcuber apaixonado e Eterno Aprendiz 🚀</h2>
