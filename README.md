@@ -15,9 +15,9 @@
 
 <h3>💡 O que você vai encontrar aqui?</h3>
 
-- **Código limpo e eficiente**: Aplico a precisão do speedcubing ao desenvolvimento.
-- **Projetos criativos**: Soluções que unem design e funcionalidade.
-- **Evolução constante**: Aprendizado contínuo e compartilhamento de conhecimento.
+- 🚀 **Código limpo e performático**  
+- 🎨 **Interfaces modernas e funcionais**  
+- 📚 **Aprendizado e compartilhamento constante**  
 
 <h3>🛠️ Tecnologias que uso</h3>
 <div align="center">
@@ -32,7 +32,7 @@
 <h3>📊 Minhas estatísticas</h3>
 <div align="center">
     
-![Brian Muniz Silveira GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrianMunizSilveira&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianMunizSilveira&theme=highcontrast&text_color=0079fa&title_color=0079fa&hide_border=true&bg_color=000000&border_radius=0" height="195px" />
+![Brian Muniz Silveira GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrianMunizSilveira&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianMunizSilveira&layout=compact&theme=highcontrast&text_color=0079fa&title_color=0079fa&hide_border=true&bg_color=000000&border_radius=0" height="195px" />
 </div>
 
 <h3>🌟 Vamos colaborar?</h3>
