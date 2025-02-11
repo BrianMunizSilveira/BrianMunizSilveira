@@ -1,3 +1,4 @@
+
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey,+eu+sou+o+Brian!+👋" align="middle" alt="Hey, eu sou o Brian!" />
 
 <img src="assets/borderseperator.gif">
@@ -31,6 +32,7 @@
 </div>
 
 <h3>📊 Minhas estatísticas</h3>
+
 <div align="center">
     
 ![Brian Muniz Silveira GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrianMunizSilveira&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianMunizSilveira&layout=compact&theme=highcontrast&text_color=0079fa&title_color=0079fa&hide_border=true&bg_color=000000&border_radius=0" height="195px" />
