@@ -22,6 +22,7 @@
 - 📚 **Aprendizado e compartilhamento constante**  
 
 <h3>🛠️ Tecnologias que uso</h3>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="skills logos">
 </div>
