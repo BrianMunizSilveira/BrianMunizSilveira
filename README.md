@@ -39,6 +39,8 @@
 <div align="center">
     
 ![Brian Muniz Silveira GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrianMunizSilveira&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianMunizSilveira&layout=compact&theme=highcontrast&text_color=0079fa&title_color=0079fa&hide_border=true&bg_color=000000&border_radius=0" height="195px" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BrianMunizSilveira&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 <h3>🌟 Vamos colaborar?</h3>
