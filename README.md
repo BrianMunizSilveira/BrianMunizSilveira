@@ -2,17 +2,13 @@
 
 <img src="assets/borderseperator.gif">
 
-<p align="center">
-    <i>Desenvolvedor Front-End | Speedcuber | Transformando ideias em código com precisão e criatividade</i>
-</p>
+<p align="center"> <i>Desenvolvedor Front-End | Transformando ideias em código</i> </p>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=BrianMunizSilveira&color=0079fa&style=flat-square&label=VISITANTES" alt="profile view counter">
     <img src="https://wakatime.com/badge/user/04f9d9f5-78d5-4252-bb42-c13048cc1271.svg" alt="Total time coded since Jun 15 2024" />
 
 </p>
-
-<h2 align="center">🚀 Transformando lógica em interfaces incríveis</h2>
 
 ---
 
