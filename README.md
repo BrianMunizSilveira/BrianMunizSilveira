@@ -1,5 +1,3 @@
-
-
 <img src="assets/borderseperator.gif">
 
 <p align="center"> <i>Desenvolvedor Front-End | Transformando ideias em código</i> </p>
