@@ -40,4 +40,5 @@ HTML5 • CSS3 • JavaScript • ReactJS • Git • GitHub • VS Code • F
 
 </div>
 
+
 > “So say we all!” - William Adama
