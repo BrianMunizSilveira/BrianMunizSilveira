@@ -38,6 +38,7 @@ HTML5 • CSS3 • JavaScript • ReactJS • Git • GitHub • VS Code • F
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianMunizSilveira&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10&width=500" alt="Top languages" />
 
+[![wakatime](https://wakatime.com/badge/user/04f9d9f5-78d5-4252-bb42-c13048cc1271.svg)](https://wakatime.com/@04f9d9f5-78d5-4252-bb42-c13048cc1271)
 </div>
 
 
