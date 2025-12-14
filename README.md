@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou **Brian Muniz**
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="28" height="28" /> **OLÁ, EU SOU BRIAN MUNIZ**
 
 **Desenvolvedor Front‑End | Criador de Interfaces Dinâmicas | Speedcuber & Leitor Ávido**
 
@@ -34,20 +34,74 @@ Atualmente aprofundando conhecimentos no ecossistema **React** e suas biblioteca
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Conjunto de tecnologias
 
-### **Front-End Principais**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<h3 align="center">Frontend</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+      <br>TailwindCSS
+    </td>
+  </tr>
+</table>
 
-### **Ferramentas & Outros**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<h3 align="center">Ferramentas</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/354513/vercel-icon.svg" width="48" height="48" alt="Vercel" />
+      <br>Vercel
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-svg-vector.svg" width="48" height="48" alt="Netlify" />
+      <br>Netlify
+    </td>
+    <td align="center" width="96">
+      <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://code.visualstudio.com/assets/branding/app-icon.png" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://developers.google.com/web/tools/images/chrome-devtools-16x9_720.png" width="48" height="48" alt="Chrome DevTools" />
+      <br>Chrome DevTools
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">Conceitos básicos</h3>
+<p align="center">
+  <a href="#"><img alt="Design Responsivo" src="https://img.shields.io/badge/Design%20Responsivo-007ACC.svg"></a>
+  <a href="#"><img alt="Acessibilidade" src="https://img.shields.io/badge/Web%20Acessibilidade-000000.svg"></a>
+  <a href="#"><img alt="SEO Básico" src="https://img.shields.io/badge/SEO%20Básico-4285F4.svg"></a>
+</p>
 
 ---
 
@@ -65,4 +119,8 @@ Atualmente aprofundando conhecimentos no ecossistema **React** e suas biblioteca
 
 **🌟 Dica:** Explore meus repositórios fixados para ver os projetos em destaque!
 
-> **"So say we all!"** – William Adama  
+> **"So say we all!"** – William Adama
+
+---
+
+**Nota:** Mantive o estilo original do seu README (sem o tema Scarlxrd) e adicionei a seção de Tech Stack com os ícones e estrutura que você forneceu. A formatação está organizada e visualmente atrativa, mantendo a personalidade que você já havia estabelecido.
