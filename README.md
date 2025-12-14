@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="28" height="28" /> **OLÁ, EU SOU BRIAN MUNIZ**
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" /> **OLÁ, EU SOU BRIAN MUNIZ**
 
 **Desenvolvedor Front‑End | Criador de Interfaces Dinâmicas | Speedcuber & Leitor Ávido**
 
@@ -23,7 +23,6 @@ Atualmente aprofundando conhecimentos no ecossistema **React** e suas biblioteca
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrianMunizSilveira)
 
 ---
-
 ## 💻 Projetos Destacados
 
 | Projeto | Descrição | Tecnologias | Live Demo | Repositório |
@@ -33,7 +32,6 @@ Atualmente aprofundando conhecimentos no ecossistema **React** e suas biblioteca
 | **InDecor Landing Page** | Landing page responsiva para empresa de decoração | HTML5 • CSS3 • JavaScript • GitHub Pages | [🌐 Acessar](https://brianmunizsilveira.github.io/InDecor-Landing-Page/) | [📂 Código](https://github.com/brianmunizsilveira/InDecor-Landing-Page) |
 
 ---
-
 ## 🛠️ Conjunto de tecnologias
 
 <h3 align="center">Frontend</h3>
@@ -108,7 +106,7 @@ Atualmente aprofundando conhecimentos no ecossistema **React** e suas biblioteca
 ## 📊 GitHub Analytics
 
 <div align="center">
-
+  
 ![Estatísticas do GitHub](https://stats-plum-nine.vercel.app/api?username=BrianMunizSilveira&show_icons=true&theme=github_dark_dimmed&bg_color=15,0e141b,082c42&hide_border=true&hide_rank=false&rank_icon=github&cache_seconds=3600&include_all_commits=true)
 ![Linguagens Mais Usadas](http://github-readme-stats-kappa-swart-31.vercel.app/api/top-langs/?username=BrianMunizSilveira&langs_count=8&count_private=false&layout=compact&theme=github_dark_dimmed&bg_color=45,082c42,0e141b&hide_border=true&hide=scss&cache_seconds=3600)
 [![Wakatime](https://wakatime.com/badge/user/04f9d9f5-78d5-4252-bb42-c13048cc1271.svg)](https://wakatime.com/@04f9d9f5-78d5-4252-bb42-c13048cc1271)
@@ -117,10 +115,4 @@ Atualmente aprofundando conhecimentos no ecossistema **React** e suas biblioteca
 
 ---
 
-**🌟 Dica:** Explore meus repositórios fixados para ver os projetos em destaque!
-
 > **"So say we all!"** – William Adama
-
----
-
-**Nota:** Mantive o estilo original do seu README (sem o tema Scarlxrd) e adicionei a seção de Tech Stack com os ícones e estrutura que você forneceu. A formatação está organizada e visualmente atrativa, mantendo a personalidade que você já havia estabelecido.
